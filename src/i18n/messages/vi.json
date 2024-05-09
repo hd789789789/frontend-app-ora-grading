@@ -1,5 +1,5 @@
 {
- "ora-grading.demoAlert.warningMessage": "Việc gửi điểm bị vô hiệu hóa trong chế độ demo của trình chấm điểm nhân viên ORA mới.",
+  "ora-grading.demoAlert.warningMessage": "Việc gửi điểm bị vô hiệu hóa trong chế độ demo của trình chấm điểm nhân viên ORA mới.",
   "ora-grading.demoAlert.confirm": "Xác nhận",
   "ora-grading.demoAlert.title": "Đã chặn gửi bản demo",
   "ora-grading.FilePopoverContent.filePopoverNameTitle": "Tên tập tin",
@@ -35,7 +35,7 @@
   "ora-grading.ListView.tableHeaders.gradingStatus": "Trạng thái chấm điểm",
   "ora-grading.ListView.loadErrorHeading": "Lỗi tải bài nộp",
   "ora-grading.ListView.loadErrorMessage1": "Đã xảy ra lỗi khi tải nội dung gửi cho phản hồi này. Hãy thử tải lại trang hoặc truy cập {backToResponses}.",
-  "ora-grading.ListView.backToResponsesLowercase": "quay lại tất cả các câu tự luận",
+  "ora-grading.ListView.backToResponsesLowercase": "Quay lại tất cả các câu ORA",
   "ora-grading.ListView.reloadSubmissions": "Tải lại bài nộp",
   "ora-grading.ListView.loadingResponses": "Đang tải phản hồi",
   "ora-grading.ResponseDisplay.FilePopoverCell.filePopoverNameTitle": "Tên tập tin",
@@ -98,8 +98,8 @@
   "ora-grading.Rubric.addComments": "Thêm nhận xét (Tùy chọn)",
   "ora-grading.Rubric.comments": "Nhận xét (Tùy chọn)",
   "ora-grading.RubricFeedback.error": "Cần có phản hồi tổng thể",
-  "ora-grading.lms-api.gradingStatusDisplay.ungraded": "Chưa được xếp loại",
+  "ora-grading.lms-api.gradingStatusDisplay.ungraded": "Không tính điểm",
   "ora-grading.lms-api.gradingStatusDisplay.locked": "Hiện đang được người khác chấm điểm",
-  "ora-grading.lms-api.gradingStatusDisplay.graded": "Đã hoàn thành chấm điểm",
+  "ora-grading.lms-api.gradingStatusDisplay.graded": "Có tính điểm",
   "ora-grading.lms-api.gradingStatusDisplay.inProgress": "Bạn hiện đang chấm điểm câu trả lời này"
 }
