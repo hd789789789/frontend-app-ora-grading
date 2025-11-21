@@ -5,12 +5,12 @@ import { StrictDict } from 'utils';
 const messages = defineMessages({
   infoMessage: {
     id: 'ora-grading.NotificationsBanner.Message',
-    defaultMessage: 'You can now enable notifications for ORA assignments that require staff grading, from the ',
+    defaultMessage: 'Bạn hiện có thể bật thông báo cho các bài tập ORA yêu cầu chấm điểm của nhân viên, từ ',
     description: 'user info message that user can enable notifications for ORA assignments',
   },
   notificationsBannerPreferencesCenterMessage: {
     id: 'ora-grading.NotificationsBanner.linkMessage',
-    defaultMessage: 'preferences center.',
+    defaultMessage: 'trung tâm tùy chọn.',
     description: 'placeholder for the preferences center link',
   },
 });

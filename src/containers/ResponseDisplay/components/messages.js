@@ -3,12 +3,12 @@ import { defineMessages } from '@edx/frontend-platform/i18n';
 const messages = defineMessages({
   filePopoverNameTitle: {
     id: 'ora-grading.ResponseDisplay.FilePopoverCell.filePopoverNameTitle',
-    defaultMessage: 'File Name',
+    defaultMessage: 'Tên tệp',
     description: 'Popover title for file name',
   },
   filePopoverDescriptionTitle: {
     id: 'ora-grading.ResponseDisplay.FilePopoverCell.filePopoverDescriptionTitle',
-    defaultMessage: 'File Description',
+    defaultMessage: 'Mô tả tệp',
     description: 'Popover title for file description',
   },
 });

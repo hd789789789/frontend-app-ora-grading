@@ -21,7 +21,7 @@ exports[`ReviewActions component component snapshot: do not show rubric 1`] = `
         className="small"
       >
         <FormattedMessage
-          defaultMessage="Score: {pointsEarned}/{pointsPossible}"
+          defaultMessage="Điểm: {pointsEarned}/{pointsPossible}"
           description="Review pane action bar score display"
           id="ora-grading.ReviewActions.pointsDisplay"
           values={
@@ -42,7 +42,7 @@ exports[`ReviewActions component component snapshot: do not show rubric 1`] = `
           variant="outline-primary mr-2"
         >
           <FormattedMessage
-            defaultMessage="Show Rubric"
+            defaultMessage="Hiển thị tiêu chí chấm điểm"
             description="Review pane action bar Show Rubric button text"
             id="ora-grading.ReviewActions.showRubric"
           />
@@ -76,7 +76,7 @@ exports[`ReviewActions component component snapshot: loading 1`] = `
         className="small"
       >
         <FormattedMessage
-          defaultMessage="Score: {pointsEarned}/{pointsPossible}"
+          defaultMessage="Điểm: {pointsEarned}/{pointsPossible}"
           description="Review pane action bar score display"
           id="ora-grading.ReviewActions.pointsDisplay"
           values={
@@ -127,7 +127,7 @@ exports[`ReviewActions component component snapshot: show rubric, no score 1`] =
           variant="outline-primary mr-2"
         >
           <FormattedMessage
-            defaultMessage="Hide Rubric"
+            defaultMessage="Ẩn tiêu chí chấm điểm"
             description="Review pane action bar Hide Rubric button text"
             id="ora-grading.ReviewActions.hideRubric"
           />

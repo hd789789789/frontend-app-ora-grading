@@ -27,22 +27,22 @@ exports[`FileDownload component snapshot download is completed 1`] = `
   labels={
     {
       "complete": <FormattedMessage
-        defaultMessage="Downloaded!"
+        defaultMessage="Đã tải xuống!"
         description="Download files completed state label"
         id="ora-grading.ResponseDisplay.SubmissionFiles.downloaded"
       />,
       "default": <FormattedMessage
-        defaultMessage="Download files"
+        defaultMessage="Tải xuống tệp"
         description="Download files inactive state label"
         id="ora-grading.ResponseDisplay.SubmissionFiles.downloadFiles"
       />,
       "failed": <FormattedMessage
-        defaultMessage="Retry download"
+        defaultMessage="Thử tải lại"
         description="Download files failed state label"
         id="ora-grading.ResponseDisplay.SubmissionFiles.retryDownload"
       />,
       "pending": <FormattedMessage
-        defaultMessage="Downloading"
+        defaultMessage="Đang tải xuống"
         description="Download files pending state label"
         id="ora-grading.ResponseDisplay.SubmissionFiles.downloading"
       />,
@@ -80,22 +80,22 @@ exports[`FileDownload component snapshot download is failed 1`] = `
   labels={
     {
       "complete": <FormattedMessage
-        defaultMessage="Downloaded!"
+        defaultMessage="Đã tải xuống!"
         description="Download files completed state label"
         id="ora-grading.ResponseDisplay.SubmissionFiles.downloaded"
       />,
       "default": <FormattedMessage
-        defaultMessage="Download files"
+        defaultMessage="Tải xuống tệp"
         description="Download files inactive state label"
         id="ora-grading.ResponseDisplay.SubmissionFiles.downloadFiles"
       />,
       "failed": <FormattedMessage
-        defaultMessage="Retry download"
+        defaultMessage="Thử tải lại"
         description="Download files failed state label"
         id="ora-grading.ResponseDisplay.SubmissionFiles.retryDownload"
       />,
       "pending": <FormattedMessage
-        defaultMessage="Downloading"
+        defaultMessage="Đang tải xuống"
         description="Download files pending state label"
         id="ora-grading.ResponseDisplay.SubmissionFiles.downloading"
       />,
@@ -133,22 +133,22 @@ exports[`FileDownload component snapshot download is inactive 1`] = `
   labels={
     {
       "complete": <FormattedMessage
-        defaultMessage="Downloaded!"
+        defaultMessage="Đã tải xuống!"
         description="Download files completed state label"
         id="ora-grading.ResponseDisplay.SubmissionFiles.downloaded"
       />,
       "default": <FormattedMessage
-        defaultMessage="Download files"
+        defaultMessage="Tải xuống tệp"
         description="Download files inactive state label"
         id="ora-grading.ResponseDisplay.SubmissionFiles.downloadFiles"
       />,
       "failed": <FormattedMessage
-        defaultMessage="Retry download"
+        defaultMessage="Thử tải lại"
         description="Download files failed state label"
         id="ora-grading.ResponseDisplay.SubmissionFiles.retryDownload"
       />,
       "pending": <FormattedMessage
-        defaultMessage="Downloading"
+        defaultMessage="Đang tải xuống"
         description="Download files pending state label"
         id="ora-grading.ResponseDisplay.SubmissionFiles.downloading"
       />,
@@ -186,22 +186,22 @@ exports[`FileDownload component snapshot download is pending 1`] = `
   labels={
     {
       "complete": <FormattedMessage
-        defaultMessage="Downloaded!"
+        defaultMessage="Đã tải xuống!"
         description="Download files completed state label"
         id="ora-grading.ResponseDisplay.SubmissionFiles.downloaded"
       />,
       "default": <FormattedMessage
-        defaultMessage="Download files"
+        defaultMessage="Tải xuống tệp"
         description="Download files inactive state label"
         id="ora-grading.ResponseDisplay.SubmissionFiles.downloadFiles"
       />,
       "failed": <FormattedMessage
-        defaultMessage="Retry download"
+        defaultMessage="Thử tải lại"
         description="Download files failed state label"
         id="ora-grading.ResponseDisplay.SubmissionFiles.retryDownload"
       />,
       "pending": <FormattedMessage
-        defaultMessage="Downloading"
+        defaultMessage="Đang tải xuống"
         description="Download files pending state label"
         id="ora-grading.ResponseDisplay.SubmissionFiles.downloading"
       />,

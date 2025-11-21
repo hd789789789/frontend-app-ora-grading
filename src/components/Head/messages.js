@@ -3,7 +3,7 @@ import { defineMessages } from '@edx/frontend-platform/i18n';
 const messages = defineMessages({
   PageTitle: {
     id: 'PageTitle',
-    defaultMessage: 'ORA staff grading | {siteName}',
+    defaultMessage: 'Chấm điểm nhân viên ORA | {siteName}',
     description: 'Title tag',
   },
 });

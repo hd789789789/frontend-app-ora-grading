@@ -4,12 +4,12 @@ import { StrictDict } from 'utils';
 const messages = defineMessages({
   loadingResponse: {
     id: 'ora-grading.ReviewModal.loadingResponse',
-    defaultMessage: 'Loading response',
+    defaultMessage: 'Đang tải phản hồi',
     description: 'loading text for submission response review screen',
   },
   demoTitleMessage: {
     id: 'ora-grading.ReviewModal.demoTitleMessage',
-    defaultMessage: 'Grading Demo',
+    defaultMessage: 'Demo chấm điểm',
     description: 'message added to modal title, indicating grading demo',
   },
 });

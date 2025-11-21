@@ -25,7 +25,7 @@ exports[`File Preview Card component snapshot 1`] = `
     variant="tertiary"
   >
     <FormattedMessage
-      defaultMessage="File info"
+      defaultMessage="Thông tin tệp"
       description="Popover trigger button text for file preview card"
       id="ora-grading.InfoPopover.fileInfo"
     />

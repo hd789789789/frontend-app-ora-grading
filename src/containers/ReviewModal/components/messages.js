@@ -3,22 +3,22 @@ import { defineMessages } from '@edx/frontend-platform/i18n';
 const messages = defineMessages({
   closeReviewConfirmTitle: {
     id: 'ora-grading.ReviewModal.closeReviewConfirm.title',
-    defaultMessage: 'Are you sure you want to close this modal?',
+    defaultMessage: 'Bạn có chắc chắn muốn đóng hộp thoại này không?',
     description: 'Prompt confirmation for closing modal',
   },
   closeReviewConfirmWarning: {
     id: 'ora-grading.ReviewModal.closeReviewConfirmWarning',
-    defaultMessage: 'This cannot be undone. This will discard unsaved work and stop this grading process.',
+    defaultMessage: 'Điều này không thể hoàn tác. Điều này sẽ hủy bỏ công việc chưa lưu và dừng quá trình chấm điểm này.',
     description: 'Confirm discard on unsaved work and close the modal',
   },
   goBack: {
     id: 'ora-grading.ReviewModal.goBack',
-    defaultMessage: 'Go back',
+    defaultMessage: 'Quay lại',
     description: 'Cancel closing the modal button text',
   },
   confirmCloseModalAction: {
     id: 'ora-grading.ReviewModal.CloseReviewConfirmModal.confirmText',
-    defaultMessage: 'Close Modal',
+    defaultMessage: 'Đóng hộp thoại',
     description: 'Confirm closing the modal button text',
   },
 });

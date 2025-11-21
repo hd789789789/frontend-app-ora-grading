@@ -4,22 +4,22 @@ import { gradingStatuses } from './constants';
 const messages = defineMessages({
   ungraded: {
     id: 'ora-grading.lms-api.gradingStatusDisplay.ungraded',
-    defaultMessage: 'Ungraded',
+    defaultMessage: 'Chưa chấm điểm',
     description: 'Grading status label for ungraded submission',
   },
   locked: {
     id: 'ora-grading.lms-api.gradingStatusDisplay.locked',
-    defaultMessage: 'Currently being graded by someone else',
+    defaultMessage: 'Hiện đang được người khác chấm điểm',
     description: 'Grading status label for locked submission',
   },
   graded: {
     id: 'ora-grading.lms-api.gradingStatusDisplay.graded',
-    defaultMessage: 'Grading Completed',
+    defaultMessage: 'Đã hoàn thành chấm điểm',
     description: 'Grading status label for graded submission',
   },
   inProgress: {
     id: 'ora-grading.lms-api.gradingStatusDisplay.inProgress',
-    defaultMessage: 'You are currently grading this response',
+    defaultMessage: 'Bạn hiện đang chấm điểm phản hồi này',
     description: 'Grading status label for in-progress submission',
   },
 });

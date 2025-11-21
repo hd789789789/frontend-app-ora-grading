@@ -3,7 +3,7 @@ import { defineMessages } from '@edx/frontend-platform/i18n';
 const messages = defineMessages({
   altText: {
     id: 'ora-grading.InfoPopover.alt-text',
-    defaultMessage: 'Display more info',
+    defaultMessage: 'Hiển thị thêm thông tin',
     description: 'Info popover trigger element alt-text',
   },
 });

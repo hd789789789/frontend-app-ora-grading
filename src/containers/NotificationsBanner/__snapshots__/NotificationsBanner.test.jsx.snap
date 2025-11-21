@@ -6,7 +6,7 @@ exports[`NotificationsBanner component snapshots with ACCOUNT_SETTINGS_URL 1`] =
 >
   <span>
     <FormattedMessage
-      defaultMessage="You can now enable notifications for ORA assignments that require staff grading, from the "
+      defaultMessage="Bạn hiện có thể bật thông báo cho các bài tập ORA yêu cầu chấm điểm của nhân viên, từ "
       description="user info message that user can enable notifications for ORA assignments"
       id="ora-grading.NotificationsBanner.Message"
     />
@@ -19,7 +19,7 @@ exports[`NotificationsBanner component snapshots with ACCOUNT_SETTINGS_URL 1`] =
       variant="muted"
     >
       <FormattedMessage
-        defaultMessage="preferences center."
+        defaultMessage="trung tâm tùy chọn."
         description="placeholder for the preferences center link"
         id="ora-grading.NotificationsBanner.linkMessage"
       />
@@ -34,12 +34,12 @@ exports[`NotificationsBanner component snapshots with empty ACCOUNT_SETTINGS_URL
 >
   <span>
     <FormattedMessage
-      defaultMessage="You can now enable notifications for ORA assignments that require staff grading, from the "
+      defaultMessage="Bạn hiện có thể bật thông báo cho các bài tập ORA yêu cầu chấm điểm của nhân viên, từ "
       description="user info message that user can enable notifications for ORA assignments"
       id="ora-grading.NotificationsBanner.Message"
     />
     <FormattedMessage
-      defaultMessage="preferences center."
+      defaultMessage="trung tâm tùy chọn."
       description="placeholder for the preferences center link"
       id="ora-grading.NotificationsBanner.linkMessage"
     />

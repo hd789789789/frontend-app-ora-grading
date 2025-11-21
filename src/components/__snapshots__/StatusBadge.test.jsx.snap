@@ -8,7 +8,7 @@ exports[`StatusBadge component behavior status snapshots: loads badge with confi
   variant="success"
 >
   <FormattedMessage
-    defaultMessage="Grading Completed"
+    defaultMessage="Đã hoàn thành chấm điểm"
     description="Grading status label for graded submission"
     id="ora-grading.lms-api.gradingStatusDisplay.graded"
   />
@@ -21,7 +21,7 @@ exports[`StatusBadge component behavior status snapshots: loads badge with confi
   variant="warning"
 >
   <FormattedMessage
-    defaultMessage="You are currently grading this response"
+    defaultMessage="Bạn hiện đang chấm điểm phản hồi này"
     description="Grading status label for in-progress submission"
     id="ora-grading.lms-api.gradingStatusDisplay.inProgress"
   />
@@ -34,7 +34,7 @@ exports[`StatusBadge component behavior status snapshots: loads badge with confi
   variant="light"
 >
   <FormattedMessage
-    defaultMessage="Currently being graded by someone else"
+    defaultMessage="Hiện đang được người khác chấm điểm"
     description="Grading status label for locked submission"
     id="ora-grading.lms-api.gradingStatusDisplay.locked"
   />
@@ -47,7 +47,7 @@ exports[`StatusBadge component behavior status snapshots: loads badge with confi
   variant="primary"
 >
   <FormattedMessage
-    defaultMessage="Ungraded"
+    defaultMessage="Chưa chấm điểm"
     description="Grading status label for ungraded submission"
     id="ora-grading.lms-api.gradingStatusDisplay.ungraded"
   />

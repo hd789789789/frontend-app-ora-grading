@@ -9,7 +9,7 @@ exports[`Rubric Feedback component snapshot feedback value is invalid 1`] = `
       className="criteria-title"
     >
       <FormattedMessage
-        defaultMessage="Overall comments"
+        defaultMessage="Nhận xét tổng thể"
         description="Rubric overall comments label"
         id="ora-grading.Rubric.overallComments"
       />
@@ -33,7 +33,7 @@ exports[`Rubric Feedback component snapshot feedback value is invalid 1`] = `
     type="invalid"
   >
     <FormattedMessage
-      defaultMessage="The overall feedback is required"
+      defaultMessage="Yêu cầu nhập phản hồi tổng thể"
       description="Error message when feedback input is required"
       id="ora-grading.RubricFeedback.error"
     />
@@ -52,7 +52,7 @@ exports[`Rubric Feedback component snapshot is graded 1`] = `
       className="criteria-title"
     >
       <FormattedMessage
-        defaultMessage="Overall comments"
+        defaultMessage="Nhận xét tổng thể"
         description="Rubric overall comments label"
         id="ora-grading.Rubric.overallComments"
       />
@@ -83,7 +83,7 @@ exports[`Rubric Feedback component snapshot is grading 1`] = `
       className="criteria-title"
     >
       <FormattedMessage
-        defaultMessage="Overall comments"
+        defaultMessage="Nhận xét tổng thể"
         description="Rubric overall comments label"
         id="ora-grading.Rubric.overallComments"
       />

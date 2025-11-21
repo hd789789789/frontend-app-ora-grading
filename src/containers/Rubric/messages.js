@@ -3,42 +3,42 @@ import { defineMessages } from '@edx/frontend-platform/i18n';
 const messages = defineMessages({
   gradeSubmitted: {
     id: 'ora-grading.Rubric.gradeSubmitted',
-    defaultMessage: 'Grade Submitted',
+    defaultMessage: 'Đã nộp điểm',
     description: 'Submit Grade button text after successful submission',
   },
   rubric: {
     id: 'ora-grading.Rubric.rubric',
-    defaultMessage: 'Rubric',
+    defaultMessage: 'Tiêu chí chấm điểm',
     description: 'Rubric interface label',
   },
   submitGrade: {
     id: 'ora-grading.Rubric.submitGrade',
-    defaultMessage: 'Submit grade',
+    defaultMessage: 'Nộp điểm',
     description: 'Submit Grade button text',
   },
   submittingGrade: {
     id: 'ora-grading.Rubric.submittingGrade',
-    defaultMessage: 'Submitting grade',
+    defaultMessage: 'Đang nộp điểm',
     description: 'Submit Grade button text while submitting',
   },
   overallComments: {
     id: 'ora-grading.Rubric.overallComments',
-    defaultMessage: 'Overall comments',
+    defaultMessage: 'Nhận xét tổng thể',
     description: 'Rubric overall comments label',
   },
   addComments: {
     id: 'ora-grading.Rubric.addComments',
-    defaultMessage: 'Add comments (Optional)',
+    defaultMessage: 'Thêm nhận xét (Tùy chọn)',
     description: 'Rubric comments input label',
   },
   comments: {
     id: 'ora-grading.Rubric.comments',
-    defaultMessage: 'Comments (Optional)',
+    defaultMessage: 'Nhận xét (Tùy chọn)',
     description: 'Rubric comments display label',
   },
   overallFeedbackError: {
     id: 'ora-grading.RubricFeedback.error',
-    defaultMessage: 'The overall feedback is required',
+    defaultMessage: 'Yêu cầu nhập phản hồi tổng thể',
     description: 'Error message when feedback input is required',
   },
 });

@@ -4,7 +4,7 @@ exports[`LockErrors component component snapshots no failure 1`] = `
 <ReviewError
   headingMessage={
     {
-      "defaultMessage": "Invalid request. Please check your input.",
+      "defaultMessage": "Yêu cầu không hợp lệ. Vui lòng kiểm tra đầu vào của bạn.",
       "description": "Error lock request for missing params",
       "id": "ora-grading.ReviewModal.errorLockBadRequestHeading",
     }
@@ -12,7 +12,7 @@ exports[`LockErrors component component snapshots no failure 1`] = `
   key="lockFailed"
 >
   <FormattedMessage
-    defaultMessage="Invalid request. Please check your input."
+    defaultMessage="Yêu cầu không hợp lệ. Vui lòng kiểm tra đầu vào của bạn."
     description="Error lock request for missing params"
     id="ora-grading.ReviewModal.errorLockBadRequest"
   />
@@ -23,7 +23,7 @@ exports[`LockErrors component component snapshots snapshot: error with bad reque
 <ReviewError
   headingMessage={
     {
-      "defaultMessage": "Invalid request. Please check your input.",
+      "defaultMessage": "Yêu cầu không hợp lệ. Vui lòng kiểm tra đầu vào của bạn.",
       "description": "Error lock request for missing params",
       "id": "ora-grading.ReviewModal.errorLockBadRequestHeading",
     }
@@ -31,7 +31,7 @@ exports[`LockErrors component component snapshots snapshot: error with bad reque
   key="lockFailed"
 >
   <FormattedMessage
-    defaultMessage="Invalid request. Please check your input."
+    defaultMessage="Yêu cầu không hợp lệ. Vui lòng kiểm tra đầu vào của bạn."
     description="Error lock request for missing params"
     id="ora-grading.ReviewModal.errorLockBadRequest"
   />
@@ -42,7 +42,7 @@ exports[`LockErrors component component snapshots snapshot: error with conflicte
 <ReviewError
   headingMessage={
     {
-      "defaultMessage": "The lock owned by another user",
+      "defaultMessage": "Khóa thuộc về người dùng khác",
       "description": "Error lock by someone else",
       "id": "ora-grading.ReviewModal.errorLockContestedHeading",
     }
@@ -50,7 +50,7 @@ exports[`LockErrors component component snapshots snapshot: error with conflicte
   key="lockFailed"
 >
   <FormattedMessage
-    defaultMessage="The lock owned by another user"
+    defaultMessage="Khóa thuộc về người dùng khác"
     description="Error lock by someone else"
     id="ora-grading.ReviewModal.errorLockContested"
   />

@@ -7,7 +7,7 @@ exports[`FilePopoverContent component snapshot default 1`] = `
   >
     <strong>
       <FormattedMessage
-        defaultMessage="File Name"
+        defaultMessage="Tên tệp"
         description="Popover title for file name"
         id="ora-grading.FilePopoverContent.filePopoverNameTitle"
       />
@@ -20,7 +20,7 @@ exports[`FilePopoverContent component snapshot default 1`] = `
   >
     <strong>
       <FormattedMessage
-        defaultMessage="File Description"
+        defaultMessage="Mô tả tệp"
         description="Popover title for file description"
         id="ora-grading.FilePopoverCellContent.filePopoverDescriptionTitle"
       />
@@ -33,7 +33,7 @@ exports[`FilePopoverContent component snapshot default 1`] = `
   >
     <strong>
       <FormattedMessage
-        defaultMessage="File Size"
+        defaultMessage="Kích thước tệp"
         description="Popover title for file size"
         id="ora-grading.FilePopoverCellContent.fileSizeTitle"
       />
@@ -51,7 +51,7 @@ exports[`FilePopoverContent component snapshot invalid size 1`] = `
   >
     <strong>
       <FormattedMessage
-        defaultMessage="File Name"
+        defaultMessage="Tên tệp"
         description="Popover title for file name"
         id="ora-grading.FilePopoverContent.filePopoverNameTitle"
       />
@@ -64,7 +64,7 @@ exports[`FilePopoverContent component snapshot invalid size 1`] = `
   >
     <strong>
       <FormattedMessage
-        defaultMessage="File Description"
+        defaultMessage="Mô tả tệp"
         description="Popover title for file description"
         id="ora-grading.FilePopoverCellContent.filePopoverDescriptionTitle"
       />
@@ -77,7 +77,7 @@ exports[`FilePopoverContent component snapshot invalid size 1`] = `
   >
     <strong>
       <FormattedMessage
-        defaultMessage="File Size"
+        defaultMessage="Kích thước tệp"
         description="Popover title for file size"
         id="ora-grading.FilePopoverCellContent.fileSizeTitle"
       />

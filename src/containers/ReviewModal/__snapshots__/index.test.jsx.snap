@@ -38,7 +38,7 @@ exports[`ReviewModal component component snapshots loading 1`] = `
   <LoadingMessage
     message={
       {
-        "defaultMessage": "Loading response",
+        "defaultMessage": "Đang tải phản hồi",
         "description": "loading text for submission response review screen",
         "id": "ora-grading.ReviewModal.loadingResponse",
       }

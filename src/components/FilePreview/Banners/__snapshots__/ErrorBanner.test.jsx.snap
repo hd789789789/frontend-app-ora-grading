@@ -9,7 +9,7 @@ exports[`Error Banner component snapshot 1`] = `
         variant="outline-primary"
       >
         <FormattedMessage
-          defaultMessage="Retry"
+          defaultMessage="Thử lại"
           description="Retry button for error in file renderer"
           id="ora-grading.ResponseDisplay.FileRenderer.retryButton"
         />
@@ -19,7 +19,7 @@ exports[`Error Banner component snapshot 1`] = `
         variant="outline-primary"
       >
         <FormattedMessage
-          defaultMessage="Retry"
+          defaultMessage="Thử lại"
           description="Retry button for error in file renderer"
           id="ora-grading.ResponseDisplay.FileRenderer.retryButton"
         />
@@ -30,7 +30,7 @@ exports[`Error Banner component snapshot 1`] = `
 >
   <Alert.Heading>
     <FormattedMessage
-      defaultMessage="Unknown errors"
+      defaultMessage="Lỗi không xác định"
       description="Unknown errors message"
       id="ora-grading.ResponseDisplay.FileRenderer.unknownError"
     />

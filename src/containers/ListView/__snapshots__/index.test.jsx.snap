@@ -45,7 +45,7 @@ exports[`ListView component component snapshots loading 1`] = `
     />
     <h4>
       <FormattedMessage
-        defaultMessage="Loading responses"
+        defaultMessage="Đang tải phản hồi"
         description="loading text for submission response list"
         id="ora-grading.ListView.loadingResponses"
       />

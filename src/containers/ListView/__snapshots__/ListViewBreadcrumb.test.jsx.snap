@@ -11,7 +11,7 @@ exports[`ListViewBreadcrumb component component snapshot: empty (no list data) 1
       src={[MockFunction icons.ArrowBack]}
     />
     <FormattedMessage
-      defaultMessage="Back to all open responses"
+      defaultMessage="Quay lại tất cả các phản hồi đang mở"
       description="Breadcrumbs link text to return to ORA list in LMS"
       id="ora-grading.ListView.ListViewBreadcrumbs.backToResponses"
     />

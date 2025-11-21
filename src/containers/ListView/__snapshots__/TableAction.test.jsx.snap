@@ -7,7 +7,7 @@ exports[`TableAction component Inactive Button "View All Responses" 1`] = `
   variant="primary"
 >
   <FormattedMessage
-    defaultMessage="View all responses"
+    defaultMessage="Xem tất cả phản hồi"
     description="Button text to load all responses for review/grading"
     id="ora-grading.ListView.viewAllResponses"
   />
@@ -22,7 +22,7 @@ exports[`TableAction component snapshots 1`] = `
   variant="primary"
 >
   <FormattedMessage
-    defaultMessage="View all responses"
+    defaultMessage="Xem tất cả phản hồi"
     description="Button text to load all responses for review/grading"
     id="ora-grading.ListView.viewAllResponses"
   />

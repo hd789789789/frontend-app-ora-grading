@@ -6,7 +6,7 @@ exports[`DownloadErrors component component snapshots failed: show error 1`] = `
     {
       "cancel": {
         "message": {
-          "defaultMessage": "Dismiss",
+          "defaultMessage": "Bỏ qua",
           "description": "Dismiss error action button text",
           "id": "ora-grading.ReviewModal.dismiss",
         },
@@ -14,7 +14,7 @@ exports[`DownloadErrors component component snapshots failed: show error 1`] = `
       },
       "confirm": {
         "message": {
-          "defaultMessage": "Retry download",
+          "defaultMessage": "Thử tải lại",
           "description": "Failed download retry button text",
           "id": "ora-grading.ReviewModal.errorRetryDownload",
         },
@@ -24,20 +24,20 @@ exports[`DownloadErrors component component snapshots failed: show error 1`] = `
   }
   headingMessage={
     {
-      "defaultMessage": "Couldn't download files",
+      "defaultMessage": "Không thể tải xuống tệp",
       "id": "ora-grading.ReviewModal.errorDownloadFailed",
     }
   }
   key="downloadFailed"
 >
   <FormattedMessage
-    defaultMessage="We're sorry, something went wrong when we tried to download these files.  Please try again."
+    defaultMessage="Rất tiếc, đã xảy ra lỗi khi chúng tôi cố gắng tải xuống các tệp này. Vui lòng thử lại."
     description="Failed download error content"
     id="ora-grading.ReviewModal.errorDownloadFailedContent"
   />
   <br />
   <FormattedMessage
-    defaultMessage="Failed files:"
+    defaultMessage="Các tệp không thành công:"
     description="List header for file download failure alert"
     id="ora-grading.ReviewModal.errorDownloadFailedFiles"
   />

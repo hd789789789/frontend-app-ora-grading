@@ -5,32 +5,32 @@ import { StrictDict } from 'utils';
 const messages = defineMessages({
   gradeNotSubmittedHeading: {
     id: 'ora-grading.ReviewModal.gradeNotSubmitted.heading',
-    defaultMessage: 'Grade not submitted',
+    defaultMessage: 'Chưa nộp điểm',
     description: 'Grade submission network error heading',
   },
   gradeNotSubmittedContent: {
     id: 'ora-grading.ReviewModal.gradeNotSubmitted.Content',
-    defaultMessage: "We're sorry, something went wrong when we tried to submit this grade.  Please try again.",
+    defaultMessage: "Rất tiếc, đã xảy ra lỗi khi chúng tôi thử gửi điểm này. Vui lòng thử lại.",
     description: 'Grade submission network error message',
   },
   resubmitGrade: {
     id: 'ora-grading.ReviewModal.resubmitGrade',
-    defaultMessage: 'Resubmit grate',
+    defaultMessage: 'Nộp lại điểm',
     description: 'Resubmit grade button after network failure',
   },
   dismiss: {
     id: 'ora-grading.ReviewModal.dismiss',
-    defaultMessage: 'Dismiss',
+    defaultMessage: 'Bỏ qua',
     description: 'Dismiss error action button text',
   },
   errorSubmittingGradeHeading: {
     id: 'ora-grading.ReviewModal.errorSubmittingGrade.Heading',
-    defaultMessage: 'Error submitting grade',
+    defaultMessage: 'Lỗi khi nộp điểm',
     description: 'Error Submitting Grade heading text',
   },
   errorSubmittingGradeContent: {
     id: 'ora-grading.ReviewModal.errorSubmittingGrade.Content',
-    defaultMessage: 'It looks like someone else got here first!  Your grade submission has been rejected',
+    defaultMessage: 'Có vẻ như người khác đã làm trước! Bài nộp điểm của bạn đã bị từ chối',
     description: 'Error Submitting Grade content',
   },
 });

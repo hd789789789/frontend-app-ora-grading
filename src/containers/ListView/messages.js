@@ -3,82 +3,82 @@ import { defineMessages } from '@edx/frontend-platform/i18n';
 const messages = defineMessages({
   backToResponses: {
     id: 'ora-grading.ListView.ListViewBreadcrumbs.backToResponses',
-    defaultMessage: 'Back to all open responses',
+    defaultMessage: 'Quay lại tất cả các phản hồi đang mở',
     description: 'Breadcrumbs link text to return to ORA list in LMS',
   },
   noResultsFoundTitle: {
     id: 'ora-grading.ListView.noResultsFoundTitle',
-    defaultMessage: 'Nothing here yet',
+    defaultMessage: 'Chưa có gì ở đây',
     description: 'Empty table for the submission table title',
   },
   noResultsFoundBody: {
     id: 'ora-grading.ListView.noResultsFoundBody',
-    defaultMessage: 'When learners submit responses, they will appear here',
+    defaultMessage: 'Khi người học nộp phản hồi, chúng sẽ xuất hiện ở đây',
     description: 'Empty table messages',
   },
   viewAllResponses: {
     id: 'ora-grading.ListView.viewAllResponses',
-    defaultMessage: 'View all responses',
+    defaultMessage: 'Xem tất cả phản hồi',
     description: 'Button text to load all responses for review/grading',
   },
   viewSelectedResponses: {
     id: 'ora-grading.ListView.viewSelectedResponses',
-    defaultMessage: 'View selected responses ({value})',
+    defaultMessage: 'Xem các phản hồi đã chọn ({value})',
     description: 'Button text to load selected responses for review/grading',
   },
   username: {
     id: 'ora-grading.ListView.tableHeaders.username',
-    defaultMessage: 'Username',
+    defaultMessage: 'Tên người dùng',
     description: 'Username table column header for submission list view',
   },
   teamName: {
     id: 'ora-grading.ListView.tableHeaders.teamName',
-    defaultMessage: 'Team name',
+    defaultMessage: 'Tên nhóm',
     description: 'Team name table column header for submission list view',
   },
   learnerSubmissionDate: {
     id: 'ora-grading.ListView.tableHeaders.learnerSubmissionDate',
-    defaultMessage: 'Learner submission date',
+    defaultMessage: 'Ngày nộp bài của người học',
     description: 'Learner submission date table column header for submission list view',
   },
   teamSubmissionDate: {
     id: 'ora-grading.ListView.tableHeaders.teamSubmissionDate',
-    defaultMessage: 'Team submission date',
+    defaultMessage: 'Ngày nộp bài của nhóm',
     description: 'Team submission date table column header for submission list view',
   },
   grade: {
     id: 'ora-grading.ListView.tableHeaders.grade',
-    defaultMessage: 'Grade',
+    defaultMessage: 'Điểm',
     description: 'Grade table column header for submission list view',
   },
   gradingStatus: {
     id: 'ora-grading.ListView.tableHeaders.gradingStatus',
-    defaultMessage: 'Grading status',
+    defaultMessage: 'Trạng thái chấm điểm',
     description: 'Grading status table column header for submission list view',
   },
   loadErrorHeading: {
     id: 'ora-grading.ListView.loadErrorHeading',
-    defaultMessage: 'Error loading submissions',
+    defaultMessage: 'Lỗi khi tải bài nộp',
     description: 'Initialization failure alert header',
   },
   loadErrorMessage: {
     id: 'ora-grading.ListView.loadErrorMessage1',
-    defaultMessage: 'An error occurred while loading the submissions for this response. Try reloading the page or going {backToResponses}.',
+    defaultMessage: 'Đã xảy ra lỗi khi tải các bài nộp cho phản hồi này. Hãy thử tải lại trang hoặc {backToResponses}.',
     description: 'Initialization failure alert message line 2',
   },
   backToResponsesLowercase: {
     id: 'ora-grading.ListView.backToResponsesLowercase',
-    defaultMessage: 'back to all Open Responses',
+    defaultMessage: 'quay lại tất cả Phản hồi đang mở',
     description: 'lowercase string for link to list of all open responses in lms',
   },
   reloadSubmissions: {
     id: 'ora-grading.ListView.reloadSubmissions',
-    defaultMessage: 'Reload submissions',
+    defaultMessage: 'Tải lại bài nộp',
     description: 'Reload button text in case of network failure',
   },
   loadingResponses: {
     id: 'ora-grading.ListView.loadingResponses',
-    defaultMessage: 'Loading responses',
+    defaultMessage: 'Đang tải phản hồi',
     description: 'loading text for submission response list',
   },
 });

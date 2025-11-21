@@ -17,7 +17,7 @@ exports[`SubmissionNavigation component component snapshot: no next submission (
     className="ml-1"
   >
     <FormattedMessage
-      defaultMessage="{current} of {total}"
+      defaultMessage="{current} trên {total}"
       description="Submission navigation location label"
       id="ora-grading.ReviewActions.navigationLabel"
       values={
@@ -57,7 +57,7 @@ exports[`SubmissionNavigation component component snapshot: no prev submission (
     className="ml-1"
   >
     <FormattedMessage
-      defaultMessage="{current} of {total}"
+      defaultMessage="{current} trên {total}"
       description="Submission navigation location label"
       id="ora-grading.ReviewActions.navigationLabel"
       values={

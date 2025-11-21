@@ -10,14 +10,14 @@ exports[`EmptySubmission component component snapshot 1`] = `
   />
   <h3>
     <FormattedMessage
-      defaultMessage="Nothing here yet"
+      defaultMessage="Chưa có gì ở đây"
       description="Empty table for the submission table title"
       id="ora-grading.ListView.noResultsFoundTitle"
     />
   </h3>
   <p>
     <FormattedMessage
-      defaultMessage="When learners submit responses, they will appear here"
+      defaultMessage="Khi người học nộp phản hồi, chúng sẽ xuất hiện ở đây"
       description="Empty table messages"
       id="ora-grading.ListView.noResultsFoundBody"
     />
@@ -30,7 +30,7 @@ exports[`EmptySubmission component component snapshot 1`] = `
       variant="outline-primary"
     >
       <FormattedMessage
-        defaultMessage="Back to all open responses"
+        defaultMessage="Xem tất cả phản hồi"
         description="Breadcrumbs link text to return to ORA list in LMS"
         id="ora-grading.ListView.ListViewBreadcrumbs.backToResponses"
       />
